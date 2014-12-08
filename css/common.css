@@ -36,8 +36,13 @@ body {
 
 .alias-course-info {
     padding-left: 32px;
+    padding-top: 8px;
 }
 
 .index-page-body {
     padding-top: 10px;
+}
+
+.add-new-alias {
+    font-size : 80%;
 }
